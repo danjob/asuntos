@@ -5,7 +5,7 @@
 -   composer install
 -   npm install
 -   npm run watch
--   php artisan migrate
+-   php artisan migrate:fresh --seed
 -   call asuntos.test and login
 -   php artisan serve (if not using valet)
 
