@@ -1,0 +1,25 @@
+/* asunto colors */
+.asuntoBlue,
+.v-application .v-btn.asuntoBlue {
+    color: #36b3f0 !important;
+}
+
+.asuntoTurquoise,
+.v-application .v-btn.asuntoTurquoise {
+    color: #26c6da !important;
+}
+
+.asuntoYellow,
+.v-application .v-btn.asuntoYellow {
+    color: #f8d550 !important;
+}
+
+.asuntoGreen,
+.v-application .v-btn.asuntoGreen {
+    color: #9ad770 !important;
+}
+
+.asuntoRed,
+.v-application .v-btn.asuntoRed {
+    color: #fb68b7 !important;
+}
